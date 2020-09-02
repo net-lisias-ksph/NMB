@@ -1,5 +1,7 @@
 # Nice MKseries Body :: Change Log
 
+* 2018-0508: 2.1 (Kernowden-Kerbin) for KSP 1.4.3
+	+ Add "FFR-31 MR/D Super Sylph" cockpit and canard
 * 2018-0429: 2.0f1 (Kernowden-Kerbin) for KSP 1.4.2
 	+ AJE Patch and main separate
 * 2018-0429: 2.0 (Kernowden-Kerbin) for KSP 1.4.2
