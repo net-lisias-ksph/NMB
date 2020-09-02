@@ -1,5 +1,8 @@
 # Nice MKseries Body :: Change Log
 
+* 2019-0528: 3.2_fix1_beta1 (Kernowden-Kerbin) for KSP 1.7.0
+	+ changelog:
+		- Fix type22 bombbay born in air and node error
 * 2019-0322: 3.2 (Kernowden-Kerbin) for KSP 1.6.1
 	+ changelog:
 		- Support KSP 1.6.1
