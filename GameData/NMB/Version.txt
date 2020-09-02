@@ -1,5 +1,6 @@
-Nice MKseries Body  V1.0.2
-
+Nice MKseries Body  V1.0.3
+          
+	Fix bug£ºParts cannot display in game
 
 		PART:
 			Type20 Cockpit
