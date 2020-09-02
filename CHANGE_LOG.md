@@ -1,5 +1,7 @@
 # Nice MKseries Body :: Change Log
 
+* 2018-0909: 3.0f1 (Kernowden-Kerbin) for KSP 1.4.3
+	+ Fix "F/A-18C" smooth group
 * 2018-0907: 3.0 (Kernowden-Kerbin) for KSP 1.4.3
 	+ changelog:
 			- Add cockpit"F/A18C"
