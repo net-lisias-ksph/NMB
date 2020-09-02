@@ -1,5 +1,7 @@
 # Nice MKseries Body :: Change Log
 
+* 2020-0131: 3.4beta (Kernowden-Kerbin) for KSP 1.8.1
+	+ Add cockpit: SpuerFlanker(WIP,without IVA)
 * 2019-0711: 3.3 (Kernowden-Kerbin) for KSP 1.7.2
 	+ changelog:
 		- Support KSP 1.7.2
