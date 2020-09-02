@@ -1,0 +1,19 @@
+changelog:
+
+	Support 1.4.X
+	Add cockpit "Flanker"(MK2H),Flanker intake(MK1),Flanker TAIL(MK2H)
+	Add cockpit "J-10C"
+	Add some props
+	Pick up Bombbay speed
+
+Complete experience need:
+
+	JSI
+	ASET
+
+
+
+
+	Nice Mksereis Body V2.0    4.29.2018
+	
+	
