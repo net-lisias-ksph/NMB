@@ -1,5 +1,9 @@
 # Nice MKseries Body :: Change Log
 
+* 2018-0907: 3.0 (Kernowden-Kerbin) for KSP 1.4.3
+	+ changelog:
+			- Add cockpit"F/A18C"
+			- Fix engine afterburner flame bug
 * 2018-0522: 2.2f1 (Kernowden-Kerbin) for KSP 1.4.3
 	+ Add new hud file
 * 2018-0519: 2.2 (Kernowden-Kerbin) for KSP 1.4.3
