@@ -1,5 +1,7 @@
 # Nice MKseries Body :: Change Log
 
+* 2018-0522: 2.2f1 (Kernowden-Kerbin) for KSP 1.4.3
+	+ Add new hud file
 * 2018-0519: 2.2 (Kernowden-Kerbin) for KSP 1.4.3
 	+ Add cockpit "F-14D"
 	+ Add new HUD
