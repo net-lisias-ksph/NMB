@@ -1,5 +1,8 @@
 # Nice MKseries Body :: Change Log
 
+* 2018-0509: 2.1f1 (Kernowden-Kerbin) for KSP 1.4.3
+	+ changelog:
+		- Fix cockpit"FFR-31-MR/D" IVA bug
 * 2018-0508: 2.1 (Kernowden-Kerbin) for KSP 1.4.3
 	+ Add "FFR-31 MR/D Super Sylph" cockpit and canard
 * 2018-0429: 2.0f1 (Kernowden-Kerbin) for KSP 1.4.2
