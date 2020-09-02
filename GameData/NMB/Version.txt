@@ -1,6 +1,17 @@
 https://forum.kerbalspaceprogram.com/index.php?/topic/169385-14x-nice-mkseries-body-nmb-v21-201858/&page=6&tab=comments#comment-3373894
 
 
+*****Nice MKseries Body  V3.3 *****
+
+	changelog:
+
+		Support KSP 1.7.2
+
+		NMB cockpit design competition   
+		
+		https://forum.kerbalspaceprogram.com/index.php?/topic/186221-nice-man-bingo-cockpit-design-competiton-season1/&tab=comments#comment-3632382
+
+
 *****Nice MKseries Body  V3.2 fix1 beta1 *****
 
 	changelog:
