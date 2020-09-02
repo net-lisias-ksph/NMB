@@ -1,5 +1,8 @@
 # Nice MKseries Body :: Change Log
 
+* 2019-0322: 3.2 (Kernowden-Kerbin) for KSP 1.6.1
+	+ changelog:
+		- Support KSP 1.6.1
 * 2018-1109: 3.1 (Kernowden-Kerbin) for KSP 1.4.5
 	+ changelog:
 		- Add engine "WS-10B TVC"
