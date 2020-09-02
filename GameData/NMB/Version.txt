@@ -1,5 +1,12 @@
 https://forum.kerbalspaceprogram.com/index.php?/topic/169385-14x-nice-mkseries-body-nmb-v21-201858/&page=6&tab=comments#comment-3373894
 
+*****Nice MKseries Body  V3.0*****
+
+	changelog:
+
+		Add cockpit"F/A18C"
+		Fix engine afterburner flame bug
+
 
 
 *****Nice MKseries Body  V2.2*****
