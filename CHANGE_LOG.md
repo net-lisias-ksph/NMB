@@ -1,5 +1,8 @@
 # Nice MKseries Body :: Change Log
 
+* 2018-1109: 3.1 (Kernowden-Kerbin) for KSP 1.4.5
+	+ changelog:
+		- Add engine "WS-10B TVC"
 * 2018-0909: 3.0f1 (Kernowden-Kerbin) for KSP 1.4.3
 	+ Fix "F/A-18C" smooth group
 * 2018-0907: 3.0 (Kernowden-Kerbin) for KSP 1.4.3
