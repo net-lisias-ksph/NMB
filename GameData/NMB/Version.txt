@@ -3,6 +3,14 @@ https://forum.kerbalspaceprogram.com/index.php?/topic/169385-14x-nice-mkseries-b
 
 
 
+*****Nice MKseries Body  V3.2*****
+
+	changelog:
+		
+		Support KSP 1.6.1
+
+
+
 *****Nice MKseries Body  V3.1*****
 
 	changelog:
