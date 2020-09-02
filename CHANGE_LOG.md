@@ -1,5 +1,7 @@
 # Nice MKseries Body :: Change Log
 
+* 2018-0429: 2.0f1 (Kernowden-Kerbin) for KSP 1.4.2
+	+ AJE Patch and main separate
 * 2018-0429: 2.0 (Kernowden-Kerbin) for KSP 1.4.2
 	+ changelog:
 		- Support 1.4.X
