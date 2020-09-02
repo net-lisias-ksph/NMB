@@ -1,5 +1,10 @@
 # Nice MKseries Body :: Change Log
 
+* 2019-0711: 3.3 (Kernowden-Kerbin) for KSP 1.7.2
+	+ changelog:
+		- Support KSP 1.7.2
+		- NMB cockpit design competition
+		- https://forum.kerbalspaceprogram.com/index.php?/topic/186221-nice-man-bingo-cockpit-design-competiton-season1/&tab=comments#comment-3632382
 * 2019-0528: 3.2_fix1_beta1 (Kernowden-Kerbin) for KSP 1.7.0
 	+ changelog:
 		- Fix type22 bombbay born in air and node error
